@@ -1,0 +1,11 @@
+node_modules/
+.cache/
+public
+src/gatsby-types.d.ts
+
+# IntelliJ
+.idea
+*.iml
+
+# Misc
+.gradle
