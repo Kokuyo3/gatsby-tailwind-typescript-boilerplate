@@ -2,8 +2,8 @@ import type { GatsbyConfig } from 'gatsby';
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `Cheryl Tang`,
-    siteUrl: `https://CSTang.dev`
+    title: `Gatsby TailwindCSS Typescript Boilerplate`,
+    siteUrl: `https://github.com/Kokuyo3/gatsby-tailwind-typescript-boilerplate`
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
